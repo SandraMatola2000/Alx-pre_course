@@ -1,2 +1,2 @@
-my first read.md tips
+my first readme.md tips
 
